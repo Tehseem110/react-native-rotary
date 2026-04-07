@@ -9,12 +9,13 @@ A circular rotary knob/slider component for React Native with smooth Skia animat
 
 ### Demo GIFs
 
-![Moon Slider Demo 1](https://raw.githubusercontent.com/Tehseem110/react-native-moon-slider/main/.github/assets/preview_gif1.gif)
+<div style="display: flex; gap: 16px;">
+  <img src="https://raw.githubusercontent.com/Tehseem110/react-native-moon-slider/main/.github/assets/preview_gif1.gif" width="300" alt="Moon Slider Demo 1" />
+  <img src="https://raw.githubusercontent.com/Tehseem110/react-native-moon-slider/main/.github/assets/preview_gif2.gif" width="300" alt="Moon Slider Demo 2" />
+</div>
 
-![Moon Slider Demo 2](https://raw.githubusercontent.com/Tehseem110/react-native-moon-slider/main/.github/assets/preview_gif2.gif)
-
-| Preview 1 | Preview 2 | Preview 3 |
-| --- | --- | --- |
+| Preview 1                                                                                                                            | Preview 2                                                                                                                            | Preview 3                                                                                                                            |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
 | ![Moon Slider Preview 1](https://raw.githubusercontent.com/Tehseem110/react-native-moon-slider/main/.github/assets/preview_img1.png) | ![Moon Slider Preview 2](https://raw.githubusercontent.com/Tehseem110/react-native-moon-slider/main/.github/assets/preview_img2.png) | ![Moon Slider Preview 3](https://raw.githubusercontent.com/Tehseem110/react-native-moon-slider/main/.github/assets/preview_img3.png) |
 
 ## Features
